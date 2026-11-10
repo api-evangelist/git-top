@@ -1,4 +1,4 @@
-# git-top
+# Git.Top
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,156 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-git-top is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://git.top/
+Git.Top provides an open-source project knowledge graph that enables discovery, comparison, and analysis of software ecosystems. It aggregates project metadata, scores, and relationships to help developers, analysts, and organizations understand the open-source landscape. The platform offers searchable data, visualizations, and API access for integration into tools and services, supporting ecosystem insights and decision-making.
+
+**Areas:** Knowledge Graph · Open Source · API · Recommendations · Agent Tools
+
+## Git.Top on APIs.io
+
+Everything profiled for Git.Top is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/git-top/](https://apis.io/providers/git-top/)** — or go straight to one of the APIs or properties below.
+
+### APIs (33)
+
+- [Git.Top Admin API](https://apis.io/apis/git-top/git-top-admin-api/) — The Admin API from Git.Top — 5 operation(s) for admin.
+- [Git.Top Agent Map API](https://apis.io/apis/git-top/git-top-agent-map-api/) — The Agent Map API from Git.Top — 1 operation(s) for agent map.
+- [Git.Top Alternatives API](https://apis.io/apis/git-top/git-top-alternatives-api/) — The Alternatives API from Git.Top — 3 operation(s) for alternatives.
+- [Git.Top Atlas API](https://apis.io/apis/git-top/git-top-atlas-api/) — The Atlas API from Git.Top — 2 operation(s) for atlas.
+- [Git.Top Benchmark API](https://apis.io/apis/git-top/git-top-benchmark-api/) — The Benchmark API from Git.Top — 1 operation(s) for benchmark.
+- [Git.Top Category API](https://apis.io/apis/git-top/git-top-category-api/) — The Category API from Git.Top — 1 operation(s) for category.
+- [Git.Top Changes API](https://apis.io/apis/git-top/git-top-changes-api/) — The Changes API from Git.Top — 1 operation(s) for changes.
+- [Git.Top Compare API](https://apis.io/apis/git-top/git-top-compare-api/) — The Compare API from Git.Top — 1 operation(s) for compare.
+- [Git.Top Compatibility API](https://apis.io/apis/git-top/git-top-compatibility-api/) — The Compatibility API from Git.Top — 1 operation(s) for compatibility.
+- [Git.Top Examples API](https://apis.io/apis/git-top/git-top-examples-api/) — The Examples API from Git.Top — 1 operation(s) for examples.
+- [Git.Top Feedback API](https://apis.io/apis/git-top/git-top-feedback-api/) — The Feedback API from Git.Top — 1 operation(s) for feedback.
+- [Git.Top Governance API](https://apis.io/apis/git-top/git-top-governance-api/) — The Governance API from Git.Top — 2 operation(s) for governance.
+- [Git.Top Graph API](https://apis.io/apis/git-top/git-top-graph-api/) — The Graph API from Git.Top — 3 operation(s) for graph.
+- [Git.Top Grp API](https://apis.io/apis/git-top/git-top-grp-api/) — The Grp API from Git.Top — 1 operation(s) for grp.
+- [Git.Top Health API](https://apis.io/apis/git-top/git-top-health-api/) — The Health API from Git.Top — 1 operation(s) for health.
+- [Git.Top Journeys API](https://apis.io/apis/git-top/git-top-journeys-api/) — The Journeys API from Git.Top — 1 operation(s) for journeys.
+- [Git.Top MCP API](https://apis.io/apis/git-top/git-top-mcp-api/) — The Mcp API from Git.Top — 3 operation(s) for mcp.
+- [Git.Top Project API](https://apis.io/apis/git-top/git-top-project-api/) — The Project API from Git.Top — 3 operation(s) for project.
+- [Git.Top Projects API](https://apis.io/apis/git-top/git-top-projects-api/) — The Projects API from Git.Top — 1 operation(s) for projects.
+- [Git.Top Quality API](https://apis.io/apis/git-top/git-top-quality-api/) — The Quality API from Git.Top — 2 operation(s) for quality.
+- [Git.Top Quickstart API](https://apis.io/apis/git-top/git-top-quickstart-api/) — The Quickstart API from Git.Top — 1 operation(s) for quickstart.
+- [Git.Top Recipes API](https://apis.io/apis/git-top/git-top-recipes-api/) — The Recipes API from Git.Top — 1 operation(s) for recipes.
+- [Git.Top Recommend API](https://apis.io/apis/git-top/git-top-recommend-api/) — The Recommend API from Git.Top — 1 operation(s) for recommend.
+- [Git.Top Related API](https://apis.io/apis/git-top/git-top-related-api/) — The Related API from Git.Top — 3 operation(s) for related.
+- [Git.Top Roadmap API](https://apis.io/apis/git-top/git-top-roadmap-api/) — The Roadmap API from Git.Top — 1 operation(s) for roadmap.
+- [Git.Top Schema API](https://apis.io/apis/git-top/git-top-schema-api/) — The Schema API from Git.Top — 1 operation(s) for schema.
+- [Git.Top Score API](https://apis.io/apis/git-top/git-top-score-api/) — The Score API from Git.Top — 3 operation(s) for score.
+- [Git.Top Search API](https://apis.io/apis/git-top/git-top-search-api/) — The Search API from Git.Top — 1 operation(s) for search.
+- [Git.Top Sync API](https://apis.io/apis/git-top/git-top-sync-api/) — The Sync API from Git.Top — 1 operation(s) for sync.
+- [Git.Top Trending API](https://apis.io/apis/git-top/git-top-trending-api/) — The Trending API from Git.Top — 1 operation(s) for trending.
+- [Git.Top Trends API](https://apis.io/apis/git-top/git-top-trends-api/) — The Trends API from Git.Top — 1 operation(s) for trends.
+- [Git.Top Trust API](https://apis.io/apis/git-top/git-top-trust-api/) — The Trust API from Git.Top — 1 operation(s) for trust.
+- [Git.Top Workflow API](https://apis.io/apis/git-top/git-top-workflow-api/) — The Workflow API from Git.Top — 1 operation(s) for workflow.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Git.Top Agentic Access](https://apis.io/agentic-access/git-top/git-top-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [BenchmarkResponse](https://apis.io/schemas/git-top/git-top-benchmark-response/)
+- [ExamplesResponse](https://apis.io/schemas/git-top/git-top-examples-response/)
+- [McpJsonRpcSuccessResponse](https://apis.io/schemas/git-top/git-top-mcp-json-rpc-success-response/)
+- [QualityReportResponse](https://apis.io/schemas/git-top/git-top-quality-report-response/)
+- [ScoreResponse](https://apis.io/schemas/git-top/git-top-score-response/)
+- [SyncStatusResponse](https://apis.io/schemas/git-top/git-top-sync-status-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Git Top Context](https://apis.io/jsonld/git-top/git-top-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Git.Top API Rules](https://apis.io/rules/git-top/git-top-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Git.Top Authentication](https://apis.io/security/git-top/git-top-authentication/)
+- [Git.Top Domain Security](https://apis.io/security/git-top/git-top-domain-security/)
+- [Git.Top Vulnerability Disclosure](https://apis.io/security/git-top/git-top-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://git.top/)
+- [Getting started](https://git.top/quickstart)
+- [API reference](https://git.top/docs)
+- [Security](https://git.top/docs#security)
+- [Trust centre](https://git.top/trust)
+- [Terms of service](https://git.top/terms)
+- [Privacy policy](https://git.top/privacy)
+- [Status](https://git.top/status)
+
+## API Evangelist rating
+
+**Kin Score 51.7** — developing · rubric 0.27.0 · scored 2026-11-10
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 52.9 |
+| Contract governance | 79.1 |
+| Operational transparency | 31.6 |
+| Developer ergonomics | 47.6 |
+| Access clarity | 28.9 |
+
+**Agent readiness 38.5** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | near-conformant (partial credit) |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | mostly (partial credit) |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 35.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/git-top/](https://apis.io/providers/git-top/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Git.Top: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/git-top/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
